@@ -62,4 +62,4 @@ My goal is to continue improving my html, CSS and JS, in order to build applicat
 
 ## Acknowledgments
 
-I was inspired by the work of GitHub - [@@correlucas](https://www.frontendmentor.io/profile/correlucas), the way he implemented the dark mode was very good
+I was inspired by the work of GitHub - [@correlucas](https://www.frontendmentor.io/profile/correlucas), the way he implemented the dark mode was very good
